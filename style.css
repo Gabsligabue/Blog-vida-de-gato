@@ -74,8 +74,8 @@ header form{
 }
 
 .input-wrapper label{
-    width: 1px;
-    height: 1px;
+    width: 1rem;
+    height: 1rem;
     overflow: hidden;
     position: absolute;
 }
